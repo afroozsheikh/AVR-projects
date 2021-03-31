@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:52434E02
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\io.h"
+NODE:M LEVEL:0 LINE:26 "l_sensor"
+NODE:M LEVEL:0 LINE:27 "r_sensor"
+NODE:F LEVEL:0 LINE:33 "main(void)"
