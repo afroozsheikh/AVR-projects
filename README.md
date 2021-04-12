@@ -3,7 +3,7 @@ In this course we were a team of two. <br/>
 Collaborator: Ali Ghadiri
 
 * *Our Final Project:* <br/>
-We implemented a line follower robot which it's Proteus in shown below:<br/>
+We implemented a line follower robot using atmega32 which it's Proteus in shown below:<br/>
 ![picture](img/Capture.JPG)
 
 In this project we used IR sensors to detect surface color.(white or black) <br/>
