@@ -1,5 +1,4 @@
 # Micro-Course-IUT
-In this course we were a team of two. <br/>
 Collaborator: Ali Ghadiri
 
 * *Our Final Project:* <br/>
